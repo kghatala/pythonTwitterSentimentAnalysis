@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-To gain additional experience using various tools for large-scale data manipulation (and analysis), I've been working through the [Data Manipulation at Scale: Systems and Algorithms](https://www.coursera.org/learn/data-manipulation) course, offered on Coursera by the University of Washington. The first part of the course involved a project to manipulate and analyze live stream data from Twitter (details can be found [here](https://github.com/kghatala/twitterSentimentAnalysis/assignment1.html)) using Python. In this repository are the files that I wrote for this assignment. These include:
+To gain additional experience using various tools for large-scale data manipulation (and analysis), I've been working through the [Data Manipulation at Scale: Systems and Algorithms](https://www.coursera.org/learn/data-manipulation) course, offered on Coursera by the University of Washington. The first part of the course involved a project to manipulate and analyze live stream data from Twitter (details can be found [here](https://github.com/kghatala/twitterSentimentAnalysis/blob/master/assignment1.html)) using Python. In this repository are the files that I wrote for this assignment. These include:
 
 - 'twitterstream.py' - a script that compiles live stream data from Twitter
 - 'tweet_sentiment.py' - calculates the sentiment of a given tweet using a provided dictionary of pre-determined sentiment scores (AFINN-111.txt)
